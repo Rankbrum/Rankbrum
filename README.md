@@ -12,25 +12,25 @@ Me chamo Renan e sou estudante de Gestão de Tecnologia da Informação. Estou c
             src="https://custom-icon-badges.demolab.com/badge/-Portfólio-7E22CE?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://github.com/Essemesmo777">
+    <a href="https://github.com/Rankbrum">
         <img
             alt="Visualizações do perfil"
             title="Visualizações do meu perfil"
-            src="https://komarev.com/ghpvc/?username=Essemesmo777&label=Visualizações&color=C79600&style=for-the-badge"
+            src="https://komarev.com/ghpvc/?username=Rankbrum&label=Visualizações&color=C79600&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/Essemesmo777?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Rankbrum?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/Essemesmo777?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Rankbrum?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/Essemesmo777?tab=followers">
+    <a href="https://github.com/Rankbrum?tab=followers">
         <img
             alt="Seguidores"
             title="Siga-me no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Essemesmo777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Rankbrum?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -60,6 +60,14 @@ Me chamo Renan e sou estudante de Gestão de Tecnologia da Informação. Estou c
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+ align="left"
+ alt="Python"
+ title="Python"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
  align="left"
@@ -135,18 +143,19 @@ Me chamo Renan e sou estudante de Gestão de Tecnologia da Informação. Estou c
 
 📊 Estatísticas
 
-<p>
-    <img
-        align="left"
-        alt="Estatísticas do GitHub de Renan"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Essemesmo777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-    />
-    <img
-        align="left"
-        alt="Tecnologias mais utilizadas por Renan"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essemesmo777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+<div align="left">
+    <a href="https://github.com/Rankbrum">
+        <img
+            alt="Estatísticas do GitHub de Renan"
+            height="195"
+            src="https://github-readme-stats.vercel.app/api?username=Rankbrum&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        />
+    </a>
+    <a href="https://github.com/Rankbrum?tab=repositories">
+        <img
+            alt="Tecnologias mais utilizadas por Renan"
+            height="195"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rankbrum&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        />
+    </a>
+</div>
